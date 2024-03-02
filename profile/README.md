@@ -3,6 +3,9 @@
 
 This organization contains repositories with material used in classes.
 
+## Inventive Engineering materials
+- [Innovation assessment](https://github.com/w10k57-education/innovation-assesment)- notebook showing application of innovation assesment in product evaluation. 
+
 ---
 *Wroclaw University of Science and Technology*  
 *Faculty of Mechanical Engineering*  
